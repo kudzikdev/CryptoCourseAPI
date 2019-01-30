@@ -1,2 +1,0 @@
-# CryptoCourseAPI
-Created with CodeSandbox
